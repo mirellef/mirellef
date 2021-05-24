@@ -9,4 +9,4 @@ Eu sou a **Mirelle**, a dona desse espaço ✨ _especial_ ✨.
 - 💬 bora conversar sobre Software Livre? 
 - 📫 Você você consegue me encontrar nesse email: mirelle.adefreitas@gmail.com
 - 😄 Pronome utilizado: ela
-- ⚡ Coisas legais sobre mim: Adoro suculentas, Yoga e Kong Fu
+- ⚡ Coisas legais sobre mim: Estou iniciando o cultivo de suculentas, Meditação, Yoga e Kong Fu
