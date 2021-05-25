@@ -1,14 +1,19 @@
-### Hi there 👋
+## Olá 👋
 
-**mirellef/mirellef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Eu sou a **Mirelle**, a dona desse espaço ✨ _especial_ ✨.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning R,Python and Statistc
+- 🌱 Estou aprendendo sobre R,Python and Estatistica
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+<<<<<<< HEAD
 - 💬 Ask me about Free Software 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ela and she
 - ⚡ Fun fact: ...dxhdhjs
+=======
+- 💬 bora conversar sobre Software Livre? 
+- 📫 Você você consegue me encontrar nesse email: mirelle.adefreitas@gmail.com
+- 😄 Pronome utilizado: ela
+- ⚡ Coisas legais sobre mim: Estou iniciando o cultivo de suculentas, Meditação, Yoga e Kong Fu
+>>>>>>> 9560ec6b1d430a2e446b15ede1412c0ea0cbaf64
