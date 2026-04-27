@@ -8,6 +8,6 @@ Dizem as más linguas que meu humor se alterna entre ácido e pessimista, eu ape
 - 💬 Bora conversar sobre Software Livre? E quadrinhos, todo e qualquer quadrinho que não tenha herói! Por gentileza,
   não há herois na pequena cosmologia de nossa existencia =D 
 - 📫 Você consegue me encontrar nesse email: mirelle.adefreitas@gmail.com
-- 😄 Constumo responder pelo pronome: ela
+- 😄 Constumo responder pelo pronome: ela/ dela
 - ⚡ Coisas legais sobre mim: Estou iniciando o cultivo de suculentas (elas dão lindas flores sabiam?), também estou começando
   a trilhar os caminhos da meditação, porém o cultivo de bonsai tem um toque de exercicio mais ativo, assim como da Yoga e o Kong Fu. 
